@@ -1,1 +1,24 @@
 
+* {
+    margin: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    padding: 1em;
+    background-color: #333333;
+}
+
+body {
+    background-color: #1c1c1c;
+}
+
+/*@media(max-height: 2340px) {
+    .header {
+        font-size: 3.5em;
+        padding: 1em;
+    }
+}*/
