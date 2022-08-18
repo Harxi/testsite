@@ -16,9 +16,9 @@ body {
     background-color: #1c1c1c;
 }
 
-/*@media(max-height: 2340px) {
+@media(max-height: 2340px) {
     .header {
         font-size: 3.5em;
         padding: 1em;
     }
-}*/
+}
